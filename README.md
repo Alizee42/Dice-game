@@ -1,11 +1,7 @@
 
 ## Création d'un petit jeu sur navigateur web.
 
----
 
-![dice-game](https://user-images.githubusercontent.com/44428775/111074974-ed630980-84e5-11eb-8253-fa3f90d9e88c.gif)
-
----
 
 ### Règles du jeu
 Le jeu comprend 2 joueurs sur un seul et même écran.
@@ -20,9 +16,3 @@ Le premier joueur qui atteint les 100 points sur global gagne le jeu.
 
 ---
 
-### Documentations utilisés: 
-
-- [html 5](https://developer.mozilla.org/fr/docs/Web/HTML)
-- [CSS 3](https://developer.mozilla.org/fr/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-- [google Fonts](https://fonts.google.com/?query=lato)
