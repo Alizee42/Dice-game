@@ -1,0 +1,13 @@
+body {
+  background: url("../images/background/bg2.jpg") center center / cover no-repeat fixed;
+}
+
+.text-center {
+  margin-top: 320px;
+}
+
+#text-play {
+  font-size: 80px;
+  font-weight: bold;
+  font-family: "Century Schoolbook L";
+}
